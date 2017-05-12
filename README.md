@@ -13,3 +13,5 @@ This script renames your according to the File Index in the Exif data. If your c
 This script tries to match the files in the specified folder with the meta data from Lightroom. To extract the exif it uses the tool [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/). It compares aperture, shutterspeed, iso and date. If there are multiple files to choose from, it lets you select them before renaming supporting you with a thumbnail of the photo.
 
 To retrieve the needed meta info you need the [LR Transporter Plugin](www.photographers-toolbox.com/products/lrtransporter.php). Set the settings to "Shared info file" and use the pattern from the "lr-transporter-rules.txt" file. Don't forget the new line at the end.
+
+![Screenshot](https://raw.githubusercontent.com/pixelarbeit/lightroom-filematcher/master/screen.gif)
