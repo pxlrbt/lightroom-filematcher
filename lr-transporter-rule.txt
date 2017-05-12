@@ -1,0 +1,1 @@
+{fileName}{tab}{shutterSpeed}{tab}{aperture}{tab}{isoSpeedRating}{tab}{dateTime[%Y:%m:%d %H:%M:%S], 0000:00:00 00:00:00}
